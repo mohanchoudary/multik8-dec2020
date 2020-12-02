@@ -1,0 +1,26 @@
+stateless functional component
+statefull class components --feature rich, maintain private data(state), provide lifecycle hooks.
+
+HOOKS:
+
+JSX ---JAVA script XML...extention to JS language syntax. has tag name, attribute and children.
+JSX makes react code simpler and elegant
+
+props - optional properties
+
+props vs state
+
+props are passed to components,  props are immutable
+state is managed in components, state can be changed
+
+rfce - create react function components
+rce- class component
+rpce - pure component
+rconst for contructor
+
+https://www.youtube.com/watch?v=nP6uei3TBsc
+
+react fragments - used to return multiple items from JSX, with out div tag.
+
+
+1. A/C creations....User requests
